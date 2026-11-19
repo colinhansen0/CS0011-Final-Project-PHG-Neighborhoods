@@ -9,5 +9,5 @@ Requirements:
   A one sentence overview of your repository, meant for someone who is not familiar with the project
 
 ### Drinking Fountains Contribution
-- **Team Member:** Rahul Basnet — `rahulbasnet634@gmail.com` (`rahul_notebook.ipynb`)
-- **Dataset Used:** City of Pittsburgh Water Features (`data.csv` from WPRDC; 288 public water features across 67 Pittsburgh neighborhoods, filtered to active drinking fountains for outdoor recreation)
+- **Team Member:** Rahul Basnet — Rahulbasnet634@gmail.com (rahul_notebook.ipynb)
+- **Dataset Used:** City of Pittsburgh Water Features (data.csv from WPRDC; 288 public water features across 67 Pittsburgh neighborhoods, filtered to active drinking fountains for outdoor recreation)
