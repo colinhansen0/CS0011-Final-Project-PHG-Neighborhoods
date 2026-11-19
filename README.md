@@ -9,5 +9,11 @@ Requirements:
   A one sentence overview of your repository, meant for someone who is not familiar with the project
 
 ### Drinking Fountains Contribution
+<<<<<<< HEAD
 - **Team Member:** Rahul Basnet — rahulbasnet634@gmail.com (rahul_notebook.ipynb)
 - **Dataset Used:** City of Pittsburgh Water Features (data.csv from WPRDC; 288 public water features across 67 Pittsburgh neighborhoods, filtered to active drinking fountains for outdoor recreation)
+=======
+- **Team Member:** Rahul Basnet — `rahulbasnet634@gmail.com` (`rahul_notebook.ipynb`)
+- **Dataset Used:** [City of Pittsburgh Water Features (`data.csv`)](https://data.wprdc.org/dataset/fe7cfb11-9f33-4590-a5ee-04419f3f974a/resource/513290a6-2bac-4e41-8029-354cbda6a7b7/download/data.csv) — Water fountains, spray fountains, and other assets which provide water for public use (288 records across 67 Pittsburgh neighborhoods, filtered to active drinking fountains for outdoor recreation).
+
+>>>>>>> 1958001 (Add WPRDC Water Features dataset link and description to README)
